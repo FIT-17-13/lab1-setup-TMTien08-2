@@ -4,12 +4,12 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
+- Họ tên: Trần Mạnh Tiến
+- Mã sinh viên: 1771020665
+- Nhóm: 1
 - Vai trò dự kiến trong nhóm:
-- Hệ điều hành:
-- Ghi chú:
+- Hệ điều hành: 
+- Ghi chú: 
 
 ## Các file minh chứng nên có
 
